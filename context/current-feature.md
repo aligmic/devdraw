@@ -21,3 +21,4 @@ Not Started
 <!-- Keep this updated. Earliest to latest -->
 
 - Project setup and boilerplate cleanup
+- Initial Next.js 16 and Tailwind CSS v4 setup, remote repo configured and pushed to GitHub
